@@ -18,7 +18,7 @@ Iighthouse-challenge-camile-stefany/
 ### Passos para instalação
 1. Clone o repositório:
 ```bash
-git clone https://github.com/camsete/Iighthouse-challenge-camile-stefany.git
+git clone https://github.com/camsste/Iighthouse-challenge-camile-stefany.git
 cd Iighthouse-challenge-camile-stefany
 ```
 2. Instale as dependências:
