@@ -49,7 +49,7 @@ As respostas para as perguntas do desafio estão detalhadas no notebook, mas em 
 2. **Fatores para alto faturamento**: Orçamento, gênero (Ação/Aventura), diretor e elenco famosos, data de lançamento.
 3. **Insights da coluna Overview**: É possível inferir o gênero, mas com limitações para gêneros menos frequentes.
 ## Previsão para o Filme Exemplo
-Para o filme *The Shawshank Redemption*, a nota IMDB prevista foi de [insira a nota prevista].
+Para o filme *The Shawshank Redemption*, a nota IMDB prevista foi de [8.76].
 ## Observações
 - O modelo de classificação de gênero tem dificuldade com gêneros menos frequentes.
 - Para melhorar os resultados, seriam necessárias técnicas mais avançadas de NLP e balanceamento de dados.
