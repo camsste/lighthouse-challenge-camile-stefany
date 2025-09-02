@@ -5,9 +5,9 @@ Solução para o desafio técnico de ciência de dados da INDICIUM, envolvendo a
 ```
 Iighthouse-challenge-camile-stefany/
 │
+├── Análise Exploratória de Dados (EDA) # Análise completa 
 ├── LH_CD_CamileStefany.ipynb          # Notebook completo com EDA e modelagem
-├── modelo_indiciam_mndb.pkl           # Modelo treinado para classificação de gênero
-├── modelo_imdb.pkl                    # Modelo treinado para regressão da nota IMDB
+├── modelo_indiciam_mndb.pkl           # Modelo treinado para regressão da nota IMDB
 ├── requirements.txt                   # Dependências do projeto
 └── README.md                          # Este arquivo
 ```
